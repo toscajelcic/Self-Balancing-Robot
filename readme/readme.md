@@ -46,7 +46,7 @@ to maintain upright balance based on real-time tilt data from an IMU.
 
 ## Project Status
 - [x] MPU6050 wired and reading data
-- [ ] Motor driver wired and tested
+- [x] Motor driver wired and tested
 - [ ] PID balancing loop
 - [ ] Frame designed/printed
 - [ ] Full assembly
