@@ -52,7 +52,4 @@ to maintain upright balance based on real-time tilt data from an IMU.
 - [ ] Full assembly
 
 ## Notes
-- Used [Electronic Cats MPU6050 library] instead of Adafruit's — Adafruit's 
-  strict chip-ID check rejected this particular sensor (likely an AliExpress 
-  clone with a slightly different WHO_AM_I response), even though the sensor 
-  itself works fine.
+- Used [Electronic Cats MPU6050 library] 
